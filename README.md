@@ -1,2 +1,1 @@
-# coronavirus
  plot coronavirus cases
