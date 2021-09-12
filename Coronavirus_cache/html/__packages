@@ -1,0 +1,16 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+readr
+dplyr
+ggplot2
+coronavirus
+tidyr
+maps
+viridisLite
+viridis
+plotly
