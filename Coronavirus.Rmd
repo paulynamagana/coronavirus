@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = TRUE, cache=TRUE)
 ```{r coronavirus}
 
 # Load the readr, ggplot2, and dplyr packages
+devtools::install_github("RamiKrispin/coronavirus", force = TRUE)
 library(readr)
 library(dplyr)
 library(ggplot2)
